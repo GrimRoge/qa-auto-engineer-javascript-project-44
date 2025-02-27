@@ -32,12 +32,15 @@ report:
 	./gradlew jacocoTestReport
 
 lint:
-	./gradlew checkstyleMain
+	./gradlew checkstyleMain .
+	npx eslint .
 
 check-deps:
 	./gradlew dependencyUpdates -Drevision=release
 
-
 build-run: build run
 
 .PHONY: build
+
+lint:
+	npx eslint .
