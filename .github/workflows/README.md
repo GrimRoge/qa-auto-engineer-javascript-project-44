@@ -7,3 +7,7 @@ The hexlet-check.yml file is responsible for running these tests - do not delete
 [![Maintainability](https://api.codeclimate.com/v1/badges/5e2519073aded45efb0c/maintainability)](https://codeclimate.com/github/GrimRoge/qa-auto-engineer-javascript-project-44/maintainability)
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/5e2519073aded45efb0c/test_coverage)](https://codeclimate.com/github/GrimRoge/qa-auto-engineer-javascript-project-44/test_coverage)
+
+## Демонстрация игры Brain Even
+
+[Посмотреть запись](https://asciinema.org/connect/5d1ff441-6676-4b36-a477-e0147e5783d2)
